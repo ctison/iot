@@ -1,0 +1,6 @@
+apiVersion: iot.ctison.dev/v1
+kind: Fridge
+metadata:
+  name: fridge-sample
+spec:
+  topic: /fr/fridge/51966
